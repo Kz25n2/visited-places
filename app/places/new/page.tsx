@@ -39,6 +39,11 @@ export default function newPlace() {
                 />
                 </div>
                 <div>
+                    <button className="nline-block cursor-pointer rounded bg-blue-600 text-white px-4 py-2  hover:bg-blue-800">
+                        追加
+                    </button>
+                </div>
+                <div>
                     <HomeLink />
                 </div>
             </form>
